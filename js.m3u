@@ -1,8 +1,3 @@
-#EXTM3U url-tvg="https://epg.v1.mk/fy.xml"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gyssi.link/live/%E6%B1%9F%E8%8B%8F.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjg5MDEyODE5ODksImlhdCI6MTczNTAyMDYzMSwiZXhwIjoxNzY2NTU2NjMxfQ.vNTwjL1fBnVotyMBzGgudRFg4H5WgY9-XRw_MDEzVso
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1HD
 http://117.93.210.181:4022/rtp/239.49.8.19:9614
 #EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2HD
